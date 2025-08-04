@@ -10,6 +10,6 @@ A simple Flutter application that allows users to convert currency between a pre
 - Swap the source and target currencies with a single button tap.
 ![App Screenshot](home.jpeg)
 ![App Screenshot](keyboard.jpeg)
-![App Screenshot](multiplecurrenciest.jpeg)
+![App Screenshot](multiple currenciest.jpeg)
 
 
